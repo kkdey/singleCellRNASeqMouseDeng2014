@@ -1,0 +1,15 @@
+Package: singleCellRNASeqMouseDeng2014
+Type: Package
+Title: single-cell RNA-sew of mouse ESC (Deng et al 2014)
+Version: 0.99.0
+Date: 2016-03-10
+Author: Kushal K. Dey <kkdey@uchicago.edu>
+Maintainer: Kushal K. Dey <kkdey@uchicago.edu>
+Description: Deng et. al. 2014
+License: Artistic-2.0
+LazyData: yes
+Depends:
+    R (>= 2.10), Biobase (>= 2.26.0)
+biocViews: ExperimentData
+NeedsCompilation: no
+RoxygenNote: 5.0.1
